@@ -1,0 +1,52 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+#dropdown-menu-2btn-1 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-1 .navbar-brand a {
+  font-size: 25px;
+}
+#dropdown-menu-2btn-1 .nav .link,
+#dropdown-menu-2btn-1 .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-2btn-1 .navbar,
+#dropdown-menu-2btn-1 .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-2btn-1 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-1 .dropdown-menu a:hover,
+#dropdown-menu-2btn-1 .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-2btn-1 .navbar-toggler {
+  color: #ffffff;
+}
+
+#dropdown-menu-2btn-c .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-c .navbar-brand a {
+  font-size: 25px;
+}
+#dropdown-menu-2btn-c .nav .link,
+#dropdown-menu-2btn-c .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-2btn-c .navbar,
+#dropdown-menu-2btn-c .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-2btn-c .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-c .dropdown-menu a:hover,
+#dropdown-menu-2btn-c .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-2btn-c .navbar-toggler {
+  color: #ffffff;
+}
+#gallery2-h SMALL {
+  font-family: 'Oswald', sans-serif;
+  font-size: 15px;
+}
